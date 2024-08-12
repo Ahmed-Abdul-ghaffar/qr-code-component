@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  align-items: center; /* Centers the container vertically */
+  height: 100vh; /* Full height of the viewport */
+}
+
+.qr-component-img {
+  width: 320px;
+  height: 320px;
+  margin: 17.5px 17.5px 20px 17.5px;
+  border-radius: 10px;
+}
+
+.qr-component-title {
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.qr-component-title-description {
+  font-size: 15px;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  text-align: center;
+}
+
+.container {
+  width: 355px;
+  margin: auto;
+}
+
+.qr-component {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+  padding-bottom: 40px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
