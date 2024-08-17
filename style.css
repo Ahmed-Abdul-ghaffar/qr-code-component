@@ -1,3 +1,4 @@
+/* global reset */
 * {
   padding: 0;
   margin: 0;
@@ -8,15 +9,17 @@ body {
   font-optical-sizing: auto;
   font-style: normal;
   background-color: hsl(212, 45%, 89%);
+
+  /*this is for centering the container vertically  */
   display: flex;
   align-items: center; /* Centers the container vertically */
   height: 100vh; /* Full height of the viewport */
 }
 
 .qr-component-img {
-  width: 320px;
-  height: 320px;
-  margin: 17.5px 17.5px 20px 17.5px;
+  width: 285px;
+  height: 285px;
+  margin: 15px 15px 20px 15px;
   border-radius: 10px;
 }
 
@@ -35,8 +38,10 @@ body {
 }
 
 .container {
-  width: 355px;
+  width: 315px;
   margin: auto;
+  /* padding-right: 15px;
+  padding-left: 15px; */
 }
 
 .qr-component {
