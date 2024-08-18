@@ -40,8 +40,6 @@ body {
 .container {
   width: 315px;
   margin: auto;
-  /* padding-right: 15px;
-  padding-left: 15px; */
 }
 
 .qr-component {
