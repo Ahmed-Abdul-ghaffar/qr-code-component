@@ -77,6 +77,8 @@ body {
 
 God willing, I plan to focus on CSS layouts, particularly Flexbox, as I used it to vertically center my page in this project. Additionally, I aim to improve my skills in creating pixel-perfect applications that are consistent across both mobile and desktop designs.
 
+After completing the CSS Layouts course, which covered float, flexbox, and CSS Grid, I was tasked with modifying my previous project to incorporate modern layout techniques. I chose to enhance the project using CSS Grid, leveraging its powerful capabilities to create a more structured and responsive design
+
 ### Useful resources
 
 - [ChatGPT by OpenAI](https://openai.com/chatgpt/) - ChatGPT provided guidance on centering elements with Flexbox. This assistance was crucial in enhancing the quality of this project.
