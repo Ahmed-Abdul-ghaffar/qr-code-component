@@ -18,9 +18,9 @@ body {
 }
 
 .qr-component-img {
-  width: 360px;
+  width: 285px;
   /* height: 300px; */
-  margin: 15px 18px 31px 18px;
+  margin: 15px 18px 21px 18px;
   border-radius: 10px;
   justify-self: center;
 }
@@ -29,12 +29,12 @@ body {
   font-weight: 700;
   color: hsl(218, 44%, 22%);
   text-align: center;
-  margin-bottom: 20px;
-  font-size: 28px;
+  margin-bottom: 15px;
+  font-size: 22px;
 }
 
 .qr-component-title-description {
-  font-size: 19px;
+  font-size: 16px;
   font-weight: 400;
   color: hsl(220, 15%, 55%);
   text-align: center;
@@ -43,6 +43,6 @@ body {
 .container {
   background-color: hsl(0, 0%, 100%);
   border-radius: 20px;
-  padding-bottom: 50px;
+  padding-bottom: 40px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
